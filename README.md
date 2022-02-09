@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**salvacarou/salvacarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Me llamo Salvador Carou**
 
-Here are some ideas to get you started:
+Recientemente termine un curso de Programacion Web Full Stack y estoy orientado al Back-end.
+Con muchas ganas de incorporarme al mundo laboral para seguir practicando lo que aprendi y mas cosas.
+ 
+Aptitudes:
+- Node.js
+- Express
+- JavaScript
+- Crud
+- Api
+- Web Scraping
+- Html
+- Mysql/Sequelize
+- Css (nivel bajo)
+- Aprendiendo Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Links
+LinkedIn: https://www.linkedin.com/in/salvador-carou-5651b9199/
