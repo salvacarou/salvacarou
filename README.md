@@ -15,8 +15,9 @@ Aptitudes:
 - Html
 - Mysql/Sequelize
 - Css (nivel bajo)
-- Aprendiendo Python
+- Python
 - Angular
+- Aprendiendo a usar Fast API
 
 
 #### Links
